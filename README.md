@@ -1,6 +1,6 @@
 # largest-common-substring
 
-The code allows to fiend largest common substring of the several strings. Algorithm is based on the construction of a suffix tree. The program is realised on C programming Language, standart c99. 
+The code allows to find largest common substring of the several strings. Algorithm is based on the construction of a suffix tree. The program is realised on C programming Language, standart c99. 
 
 ## Task detales
 
