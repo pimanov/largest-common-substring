@@ -15,7 +15,4 @@ Print the largest common substring.
 
 | input | output |
 |-------|--------|
-| 3  | cab  |
-| abacaba  |   |
-| mycabarchive  |   |
-| acabistrue  |   |
+| 3  abacaba  mycabarchive  acabistrue | cab  |
