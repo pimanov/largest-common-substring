@@ -1,20 +1,15 @@
 # largest-common-substring
 
-The code allows to find largest common substring of the several strings. Algorithm is based on the construction of a suffix tree. The program is realised on C programming Language, standart c99. 
+This program allows finding the largest common substring of K strings. The algorithm is based on a suffix tree. The program is implemented on C programming language, standard c99. 
 
 ## Task detales
 
-Given K lines. We have to find largest common substring.
+Input:  K+1 strings. The first string contains an integer K (1 <= K <= 10), the others contain K source strings. Each string consists of no more than 10000 small Latin letters.
 
-### Input data format
+Output: the largest common substring.
 
-The first line contains an integer K (1 <= K <= 10). Next, the K source lines are written. Each line consists of no more than 10000 small Latin letters.
 
-### Output data format
-
-Print the largest common substring. 
-
-### Example of run
+## Example of run
 
 | input | output |
 |-------|--------|
